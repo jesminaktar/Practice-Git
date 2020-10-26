@@ -1,3 +1,3 @@
 # Practice-Git
 
-Updating git file with Aftab
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
